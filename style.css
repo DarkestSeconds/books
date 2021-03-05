@@ -92,6 +92,7 @@ nav ul li  {
 
 @media (max-width: 858px) {
   .checkbtn {
+    position: fixed;
     display: block;
     cursor: grab;
   }
