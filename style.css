@@ -143,7 +143,7 @@ nav ul li  {
   #check:checked ~ .checkbtn {
     left: -5%;
     margin-left: 25px;
-    position: absolute;
+    position: fixed;
     transition: 2.6s;
     z-index: 1;
   }
